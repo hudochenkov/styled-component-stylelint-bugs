@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "bugs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "stylelint \"**/*.styled.js\" --syntax styled"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-config-styled-components": "^0.1.1"
+  }
+}
