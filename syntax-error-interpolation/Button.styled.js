@@ -10,8 +10,6 @@ export const ButtonStyled = styled.button`
   color: red;
 `;
 
-export const ButtonStyled = styled.button`
+export const ButtonStyled2 = styled.button`
   ${buttonStyles}
 `;
-
-export default ButtonStyled;
