@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "stylelint \"**/*.styled.js\" --syntax styled"
+    "test": "stylelint \"**/*.styled.js\" --syntax jsx"
   },
   "author": "",
   "license": "ISC",
